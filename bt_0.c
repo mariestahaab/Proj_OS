@@ -1,3 +1,7 @@
+//this code makes use of a function "incomplete()" to determine the value of elements present in an array.
+//it returns the value '0' if all the elements in the array are 0, and value'1' if the array contains even a single non-zero element.
+//this function can be made use of to check if the burst time of every process is zero.
+
 #include<stdio.h>
 int n;
 
