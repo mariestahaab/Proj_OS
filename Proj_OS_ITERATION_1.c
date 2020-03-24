@@ -1,3 +1,6 @@
+//It is important to note that this is the very first implementation of the scheduling algorithm the code is thus in its infancy.
+//Minor or drastic changes in the code can be observed in the foreseeable future.
+
 #include<stdio.h>
 
 int n = 4;
