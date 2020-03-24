@@ -1,3 +1,5 @@
+//This code finds the index of the element having the smallest value in an array.
+
 #include<stdio.h>
 
 void main()
