@@ -1,3 +1,6 @@
+//This code is an extension to the previously uploaded code "smalles_arr.c"
+//it makes use of a function "smallest" which returns the index of the smallest element present in the array "arr[]".
+
 #include<stdio.h>
 
 int length;
